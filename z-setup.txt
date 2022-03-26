@@ -7,7 +7,8 @@ npm init -y => initialize node project
 
 npm i -D tailwindcss => install developer dependecies
 
-tailwind css intellisense => vs code extension
-
 npx tailwindcss init => for config.js file
 
+setup .vscode settings for auto suggestion
+
+tailwind css intellisense => vs code extension
